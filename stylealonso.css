@@ -1,0 +1,128 @@
+#info {
+    background-image: url("/img/A-44.jpg");
+}
+
+#historia {
+    background-image: url(/img/city-express-plus-guadalajara.jpeg);
+}
+
+.font-1 {
+    font-family:'HerrVonMuellerhoff','sans-serif' !important;
+}
+
+.font-3 {
+    font-family:'Arvo-Regular','sans-serif' !important;
+}
+
+#countdown {
+    width: 100%;
+  }
+  label {
+    clear: both;
+    display: block;
+  }
+  #countdown span {
+    background: rgba(0,0,0,0);
+    color: #000;
+    font-size: 26px;
+    font-weight: normal;
+    text-align: center;
+    width: 25%;
+    display: block;
+    float: left;
+    border-right: 1px solid #FFF;
+  }
+  #countdown span:last-child {
+    border-right: 1px solid #313233;
+  }
+
+
+.relojcontainer{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.big-number{
+    color: #FFF;
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+#asistencia {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  padding: 5%;
+  margin: auto;
+}
+
+
+.flex-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  background-color: #ffd3afb5;
+  height: 500px;
+  padding: 50px;
+  
+
+}
+
+
+
+.formulario {
+  
+  display: flex;
+  flex-direction: column;
+  
+  width: auto;
+ 
+  padding: 20px;
+  border-radius: 10px;
+  border: #313233;
+  stroke: #000;
+
+}
+
+.lista {
+  display: flex;
+  font-family:'HerrVonMuellerhoff','sans-serif' !important;
+  font-size: 10px; 
+  text-align: center;
+  justify-content: center;
+}
+
+.formpases {
+  display: flex;
+  
+ 
+  text-align: center;
+  justify-content: center;
+  padding-top: 20px;
+
+}
+
+.formbusqueda {
+
+  display: flex;
+ 
+  text-align: center;
+  justify-content: center;
+  padding-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+  
+
